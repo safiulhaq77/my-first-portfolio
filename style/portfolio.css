@@ -32,12 +32,16 @@
   /* btn  deco */
   .btn-primary {
     background-color: #FD6E0A;
-    font-weight: 700;
+    font-weight: bold;
+    font-size: 10px;
     color: white;
+    border: none;
+    border-radius: 2px;
   }
 
   nav ul {
     display: flex;
+    align-items: center;
   }
 
 /* nav style */
@@ -52,4 +56,65 @@ nav{
 .nav-text {
     color: #FD6E0A;
 }
+/* benner-greetings */
+.benner-greetings{
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.banner-title{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.banner-descrip{
+  font-size: 13px;
+}
+
+/* banner-profile-pic */
+.banner-profile-pic{
+  width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
